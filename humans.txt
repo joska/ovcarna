@@ -2,14 +2,9 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
-    <name> -- <role> -- <twitter>
-
-# THANKS
-
-    <name>
+    Josef Sekava https://twitter.com/joska_cz
 
 # TECHNOLOGY COLOPHON
 
     CSS3, HTML5
-    Apache Server Configs, jQuery, Modernizr, Normalize.css
+    Netlify, Apache Server Configs, jQuery, Modernizr, Normalize.css
